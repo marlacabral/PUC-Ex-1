@@ -1,0 +1,74 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+h1{
+    background:rgb(109, 109, 211);
+}
+
+h2{
+    padding: 5% 0 1% 0;
+}
+
+h5{
+    color:rgb(109, 109, 211);
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.biografia{
+    background:rgb(109, 109, 211);
+
+}
+
+.blog{
+    width: 25%;
+    padding: 20px 50px;
+    align-items: center;
+    color: black;
+    justify-content: center;
+
+}
+
+.geral{
+    display: flex;
+    background:rgb(109, 109, 211);
+    width: 50%;
+    padding: 80px;
+    align-items: center;
+    color: black;
+
+}
+
+img{
+    background:rgb(248, 248, 250);
+    width: 100px;
+    border-radius: 50%;
+    padding: 80px ;
+    margin: 10px 30px 10px 5px
+}
+
+.text{
+    /* padding: 0% 10%; */
+    background-color:rgb(109, 109, 211);
+
+}
+
+.ver-tudo{
+    color: rgb(109, 109, 211);
+    font-weight:bold;
+}
+
+.cachorrinho{
+    background:rgb(109, 109, 211);
+}
